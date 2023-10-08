@@ -16,6 +16,7 @@ const Nav = () => {
       className='object-contain'
       
       />
+      <p className='logo_text'>Promptopia</p>
     </Link>
     </nav>
    
